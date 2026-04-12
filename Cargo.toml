@@ -1,0 +1,8 @@
+[package]
+name = "flux-confidence"
+version = "0.1.0"
+edition = "2021"
+description = "Bayesian confidence propagation, decay, fusion — the belief system of an agent"
+
+[dependencies]
+rand = "0.8"
